@@ -1,4 +1,4 @@
-public class ThreadDemo1 {
+public class DeadlockSolved {
    public static Object Lock1 = new Object();
    public static Object Lock2 = new Object();
    
