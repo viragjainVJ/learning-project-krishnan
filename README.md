@@ -1,4 +1,4 @@
-# learning-project-krishnan
+# MultiThreading
 
 
 Deadlock occurs in Deadlock.java file. 
